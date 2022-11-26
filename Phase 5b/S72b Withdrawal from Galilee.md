@@ -14,5 +14,3 @@
 **[John 6:1-3](http://www.blueletterbible.org/search/preSearch.cfm?Criteria=John+6.1-3&t=NIV)**
 
 1 After these things, Jesus went away to the other side of the sea of Galilee, which is also called the Sea of Tiberias. 2 A great multitude followed him, because they saw his signs which he did on those who were sick. 3 Jesus went up into the mountain, and he sat there with his disciples.
-
-#all4gospels
