@@ -1,0 +1,4 @@
+**[John 7:2-9](http://www.blueletterbible.org/search/preSearch.cfm?Criteria=John+7.2-9&t=NIV)**  
+2 Now the feast of the Jews, the Feast of Booths, was at hand. 3 His brothers therefore said to him, “Depart from here and go into Judea, that your disciples also may see your works which you do. 4 For no one does anything in secret while he seeks to be known openly. If you do these things, reveal yourself to the world.” 5 For even his brothers didn’t believe in him. 6 Jesus therefore said to them, “My time has not yet come, but your time is always ready. 7 The world can’t hate you, but it hates me, because I testify about it, that its works are evil. 8 You go up to the feast. I am not yet going up to this feast, because my time is not yet fulfilled.” 9 Having said these things to them, he stayed in Galilee.
+
+#god/jesus #judgment #evil

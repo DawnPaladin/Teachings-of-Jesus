@@ -1,0 +1,4 @@
+**[Luke 12:54-59](http://www.blueletterbible.org/search/preSearch.cfm?Criteria=Luke+12.54-59&t=NIV)**
+54 He said to the crowd: “When you see a cloud rising in the west, immediately you say, ‘It’s going to rain,’ and it does. 55 And when the south wind blows, you say, ‘It’s going to be hot,’ and it is. 56 Hypocrites! You know how to interpret the appearance of the earth and the sky. How is it that you don’t know how to interpret this present time? #hypocrisy 
+
+57  “Why don’t you judge for yourselves what is right? 58  As you are going with your adversary to the magistrate, try hard to be reconciled on the way, or your adversary may drag you off to the judge, and the judge turn you over to the officer, and the officer throw you into prison. 59  I tell you, you will not get out until you have paid the last penny.” #reconciliation 

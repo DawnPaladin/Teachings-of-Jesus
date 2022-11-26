@@ -1,0 +1,3 @@
+**[Luke 12:49-53](http://www.blueletterbible.org/search/preSearch.cfm?Criteria=Luke+12.49-53&t=NIV)**
+49  “I have come to bring fire on the earth, and how I wish it were already kindled! 50  But I have a baptism to undergo, and what constraint I am under until it is completed! 51  Do you think I came to bring peace on earth? No, I tell you, but division. 52  From now on there will be five in one family divided against each other, three against two and two against three. 53  They will be divided, father against son and son against father, mother against daughter and daughter against mother, mother-in-law against daughter-in-law and daughter-in-law against mother-in-law.” #god/jesus #social-division #peace 
+

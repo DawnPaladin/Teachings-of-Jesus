@@ -1,0 +1,9 @@
+**[Luke 12:1-12](http://www.blueletterbible.org/search/preSearch.cfm?Criteria=Luke+12.1-12&t=NIV)**
+1 Meanwhile, when a crowd of many thousands had gathered, so that they were trampling on one another, Jesus began to speak first to his disciples, saying: “Be[fn] on your guard against the yeast of the Pharisees, which is hypocrisy. 2 There is nothing concealed that will not be disclosed, or hidden that will not be made known. 3 What you have said in the dark will be heard in the daylight, and what you have whispered in the ear in the inner rooms will be proclaimed from the roofs. #hypocrisy #secrets #growth #contagion #commands
+
+4  “I tell you, my friends, do not be afraid of those who kill the body and after that can do no more. 5  But I will show you whom you should fear: Fear him who, after your body has been killed, has authority to throw you into hell. Yes, I tell you, fear him. 6  Are not five sparrows sold for two pennies? Yet not one of them is forgotten by God. 7  Indeed, the very hairs of your head are all numbered. Don’t be afraid; you are worth more than many sparrows. #god/father #judgment #worry #fear #commands
+
+8  “I tell you, whoever publicly acknowledges me before others, the Son of Man will also acknowledge before the angels of God. 9  But whoever disowns me before others will be disowned before the angels of God. 10  And everyone who speaks a word against the Son of Man will be forgiven, but anyone who blasphemes against the Holy Spirit will not be forgiven.
+#blasphemy #representing-jesus #god/holy-spirit 
+
+11  “When you are brought before synagogues, rulers and authorities, do not worry about how you will defend yourselves or what you will say, 12  for the Holy Spirit will teach you at that time what you should say.” #worry #persecution #god/holy-spirit #commands

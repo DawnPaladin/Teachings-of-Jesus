@@ -1,0 +1,10 @@
+**[John 10:22-39](http://www.blueletterbible.org/search/preSearch.cfm?Criteria=John+10.22-39&t=NIV)**
+22 Then came the Festival of Dedication[fn] at Jerusalem. It was winter, 23 and Jesus was in the temple courts walking in Solomon’s Colonnade. 24 The Jews who were there gathered around him, saying, “How long will you keep us in suspense? If you are the Messiah, tell us plainly.”
+
+25 Jesus answered, “I did tell you, but you do not believe. The works I do in my Father’s name testify about me, 26 but you do not believe because you are not my sheep. 27 My sheep listen to my voice; I know them, and they follow me. 28 I give them eternal life, and they shall never perish; no one will snatch them out of my hand. 29 My Father, who has given them to me, is greater than all[fn]; no one can snatch them out of my Father’s hand. 30 I and the Father are one.” #god/jesus #belief #miracles #eternal-life #knowing-god #god/father
+
+31 Again his Jewish opponents picked up stones to stone him, 32 but Jesus said to them, “I have shown you many good works from the Father. For which of these do you stone me?” #violence #miracles #god/jesus 
+
+33 “We are not stoning you for any good work,” they replied, “but for blasphemy, because you, a mere man, claim to be God.”
+
+34 Jesus answered them, “Is it not written in your Law, ‘I have said you are “gods” ’[fn]? 35 If he called them ‘gods,’ to whom the word of God came—and Scripture cannot be set aside— 36 what about the one whom the Father set apart as his very own and sent into the world? Why then do you accuse me of blasphemy because I said, ‘I am God’s Son’? 37 Do not believe me unless I do the works of my Father. 38 But if I do them, even though you do not believe me, believe the works, that you may know and understand that the Father is in me, and I in the Father.” 39 Again they tried to seize him, but he escaped their grasp. #scripture #humanity #human-value #god/jesus #blasphemy #miracles #god/father 

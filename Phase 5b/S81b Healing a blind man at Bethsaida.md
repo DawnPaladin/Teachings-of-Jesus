@@ -1,0 +1,4 @@
+**[Mark 8:22-26](http://www.blueletterbible.org/search/preSearch.cfm?Criteria=Mark+8.22-26&t=NIV)**  
+22 He came to Bethsaida. They brought a blind man to him, and begged him to touch him. 23 He took hold of the blind man by the hand, and brought him out of the village. When he had spat on his eyes, and laid his hands on him, he asked him if he saw anything. 24 He looked up, and said, “I see men; for I see them like trees walking.” 25 Then again he laid his hands on his eyes. He looked intently, and was restored, and saw everyone clearly. 26 He sent him away to his house, saying, “Don’t enter into the village, nor tell anyone in the village.”
+
+#healings #miracles #popularity 

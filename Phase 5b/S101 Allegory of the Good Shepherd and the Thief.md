@@ -1,0 +1,14 @@
+**[John 10:1-21](https://www.blueletterbible.org/niv/jhn/10/1-18/p1/s_1007001)**
+1 “Very truly I tell you Pharisees, anyone who does not enter the sheep pen by the gate, but climbs in by some other way, is a thief and a robber. 2 The one who enters by the gate is the shepherd of the sheep. 3 The gatekeeper opens the gate for him, and the sheep listen to his voice. He calls his own sheep by name and leads them out. 4 When he has brought out all his own, he goes on ahead of them, and his sheep follow him because they know his voice. 5 But they will never follow a stranger; in fact, they will run away from him because they do not recognize a stranger’s voice.” 6 Jesus used this figure of speech, but the Pharisees did not understand what he was telling them. #hearing-from-god #parables #knowing-god
+
+(Interpreted New Testament: "Jesus was speaking in terms of a common image in the Hebrew Scriptures where sheep represent God's people and the shepherd is either God or the leaders of Israel, depending on context.") #leaders
+
+7 Therefore Jesus said again, “Very truly I tell you, I am the gate for the sheep. 8 All who have come before me are thieves and robbers, but the sheep have not listened to them. 9 I am the gate; whoever enters through me will be saved.[fn] They will come in and go out, and find pasture. 10 The thief comes only to steal and kill and destroy; I have come that they may have life, and have it to the full. #god/jesus #salvation #life #satan #false-teachers 
+
+11  “I am the good shepherd. The good shepherd lays down his life for the sheep. 12  The hired hand is not the shepherd and does not own the sheep. So when he sees the wolf coming, he abandons the sheep and runs away. Then the wolf attacks the flock and scatters it. 13  The man runs away because he is a hired hand and cares nothing for the sheep. #crucifixion 
+
+14  “I am the good shepherd; I know my sheep and my sheep know me— 15  just as the Father knows me and I know the Father—and I lay down my life for the sheep. 16  I have other sheep that are not of this sheep pen. I must bring them also. They too will listen to my voice, and there shall be one flock and one shepherd. 17  The reason my Father loves me is that I lay down my life—only to take it up again. 18  No one takes it from me, but I lay it down of my own accord. I have authority to lay it down and authority to take it up again. This command I received from my Father.” #knowing-god #god/father #god/jesus #prophecy #unity #love #death #life #authority #commands 
+
+19 The Jews who heard these words were again divided. 20 Many of them said, “He is demon-possessed and raving mad. Why listen to him?”
+
+21 But others said, “These are not the sayings of a man possessed by a demon. Can a demon open the eyes of the blind?”

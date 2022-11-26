@@ -1,0 +1,8 @@
+**[Matthew 12:38-45](http://www.blueletterbible.org/search/preSearch.cfm?Criteria=Matthew+12.38-45&t=NIV)**
+38 Then some of the Pharisees and teachers of the law said to him, “Teacher, we want to see a sign from you.”
+
+39 He answered, “A wicked and adulterous generation asks for a sign! But none will be given it except the sign of the prophet Jonah. 40 For as Jonah was three days and three nights in the belly of a huge fish, so the Son of Man will be three days and three nights in the heart of the earth. 41 The men of Nineveh will stand up at the judgment with this generation and condemn it; for they repented at the preaching of Jonah, and now something greater than Jonah is here. 42 The Queen of the South will rise at the judgment with this generation and condemn it; for she came from the ends of the earth to listen to Solomon’s wisdom, and now something greater than Solomon is here.
+
+43  “When an impure spirit comes out of a person, it goes through arid places seeking rest and does not find it. 44  Then it says, ‘I will return to the house I left.’ When it arrives, it finds the house unoccupied, swept clean and put in order. 45  Then it goes and takes with it seven other spirits more wicked than itself, and they go in and live there. And the final condition of that person is worse than the first. That is how it will be with this wicked generation.”
+
+#prophecy #judgment #god/jesus #demons

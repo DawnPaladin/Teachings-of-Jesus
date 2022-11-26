@@ -1,0 +1,14 @@
+**[Matthew 16:21-26](http://www.blueletterbible.org/search/preSearch.cfm?Criteria=Matthew+16.21-26&t=NIV)**  
+21 From that time, Jesus began to show his disciples that he must go to Jerusalem and suffer many things from the elders, chief priests, and scribes, and be killed, and the third day be raised up. 22 Peter took him aside, and began to rebuke him, saying, “Far be it from you, Lord! This will never be done to you.” 23 But he turned, and said to Peter, “Get behind me, Satan! You are a stumbling block to me, for you are not setting your mind on the things of God, but on the things of men.” 24 Then Jesus said to his disciples, “If anyone desires to come after me, let him deny himself, and take up his cross, and follow me. 25 For whoever desires to save his life will lose it, and whoever will lose his life for my sake will find it. 26 For what will it profit a man, if he gains the whole world, and forfeits his life? Or what will a man give in exchange for his life?
+
+**[Mark 8:31-37](http://www.blueletterbible.org/search/preSearch.cfm?Criteria=Mark+8.31-37&t=NIV)**  
+31 He began to teach them that the Son of Man must suffer many things, and be rejected by the elders, the chief priests, and the scribes, and be killed, and after three days rise again. 32 He spoke to them openly. Peter took him, and began to rebuke him. 33 But he, turning around, and seeing his disciples, rebuked Peter, and said, “Get behind me, Satan! For you have in mind not the things of God, but the things of men.”
+
+34 He called the multitude to himself with his disciples, and said to them, “Whoever wants to come after me, let him deny himself, and take up his cross, and follow me. 35 For whoever wants to save his life will lose it; and whoever will lose his life for my sake and the sake of the Good News will save it. 36 For what does it profit a man, to gain the whole world, and forfeit his life? 37 For what will a man give in exchange for his life?
+
+**[Luke 9:22-25](http://www.blueletterbible.org/search/preSearch.cfm?Criteria=Luke+9.22-25&t=NIV)**  
+22 saying, “The Son of Man must suffer many things, and be rejected by the elders, chief priests, and scribes, and be killed, and the third day be raised up.”
+
+23 He said to all, “If anyone desires to come after me, let him deny himself, take up his cross, and follow me. 24 For whoever desires to save his life will lose it, but whoever will lose his life for my sake, will save it. 25 For what does it profit a man if he gains the whole world, and loses or forfeits his own self?
+
+#satan #resurrection #death #obedience #sacrifice #eternal-life #commands

@@ -1,0 +1,4 @@
+**[Luke 10:38-42](http://www.blueletterbible.org/search/preSearch.cfm?Criteria=Luke+10.38-42&t=NIV)**
+38 As Jesus and his disciples were on their way, he came to a village where a woman named Martha opened her home to him. 39 She had a sister called Mary, who sat at the Lord’s feet listening to what he said. 40 But Martha was distracted by all the preparations that had to be made. She came to him and asked, “Lord, don’t you care that my sister has left me to do the work by myself? Tell her to help me!” #work
+
+41 “Martha, Martha,” the Lord answered, “you are worried and upset about many things, 42 but few things are needed—or indeed only one.[fn] Mary has chosen what is better, and it will not be taken away from her.” #worry
