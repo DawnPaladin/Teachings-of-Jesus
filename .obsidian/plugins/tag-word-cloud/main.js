@@ -1493,6 +1493,11 @@ var TagCloudPluginSettingsTab = class extends import_obsidian.PluginSettingTab {
       }));
       text.inputEl.setAttr("rows", 8);
     });
+    new import_obsidian.Setting(containerEl).setDesc("Recalculate Word Distribution").setDesc("").addButton((button) => {
+      button.setButtonText("Recalculate Word Distribution").onClick(() => __async(this, null, function* () {
+        yield this.plugin.calculateWordDistribution(true);
+      }));
+    });
   }
 };
 
@@ -1779,13 +1784,13 @@ var import_obsidian3 = __toModule(require("obsidian"));
 // src/functions.ts
 var stopwords = new Set();
 function removeMarkdown(text) {
-  return text.replace(/^---\n.*?\n---\n/s, "").replace(/!?\[(.+)\]\(.+\)/g, "$1").replace(/\*\*(.*?)\*\*/gm, "$1").replace(/\*(.*?)\*/gm, "$1").replace(/\[\[(.*(?=\|))(.*)\]\]/g, "$2").replace(/\[\[([\s\S]*?)\]\]/gm, "$1").replace(/- ?\[.?\]/gm, "").replace(/%%.*?%%/gm, "").replace(/`([\s\S]*?)`/gm, "").replace(/\[\^[[\s\S]]*\]/g, "").replace(/\^\[([\s\S]*?)\]/g, "$1").replace(/\$\$([\s\S]*?)\$\$/gm, "").replace(/\$([\s\S]*?)\$/gm, "").replace(/\[([\s\S]*?)\]/g, "$1").replace(/\(([\s\S]*?)\)/g, "$1").replace(/^(.*?)::(.*?)$/gm, "").replace(/[,.;:|#-()=_*-]/g, "").replace(/<("[^"]*"|'[^']*'|[^'">])*>/gm, "").replace(/\s\S\s/g, " ");
+  return text.replace(/^---\n.*?\n---\n/s, "").replace(/!?\[(.+)\]\(.+\)/gm, "$1").replace(/(https?):\/\/\S*(\s?)/gm, "").replace(/\*\*(.*?)\*\*/gm, "$1").replace(/\*(.*?)\*/gm, "$1").replace(/\[\[(.*(?=\|))(.*)\]\]/g, "$2").replace(/\[\[([\s\S]*?)\]\]/gm, "$1").replace(/- ?\[.?\]/gm, "").replace(/%%.*?%%/gm, "").replace(/`([\s\S]*?)`/gm, "").replace(/\[\^[[\s\S]]*\]/g, "").replace(/\^\[([\s\S]*?)\]/g, "$1").replace(/\$\$([\s\S]*?)\$\$/gm, "").replace(/\$([\s\S]*?)\$/gm, "").replace(/\[([\s\S]*?)\]/g, "$1").replace(/\(([\s\S]*?)\)/g, "$1").replace(/^(.*?)::(.*?)$/gm, "").replace(/[,.;:|#-()=_*-^\[\]]/g, "").replace(/<("[^"]*"|'[^']*'|[^'">])*>/gm, "").replace(/\s\S\s/g, " ");
 }
-function removeStopwords(words) {
-  performance.mark("removeStopwords-start");
+function removeStopwords(words, customStopwords) {
   const result = {};
   for (const word of Object.keys(words)) {
-    if (!stopwords.has(word)) {
+    const word_lc = word.toLowerCase();
+    if (!stopwords.has(word_lc) && !customStopwords.has(word_lc)) {
       result[word] = words[word];
     }
   }
@@ -1872,7 +1877,9 @@ var Wordcloud = class {
         if (!(file instanceof import_obsidian3.TFile))
           return;
         if (options.stopwords) {
-          content = removeStopwords(yield convertToMap(yield getWords(yield this.plugin.app.vault.read(file))));
+          const tmp = this.plugin.settings.stopwords.split("\n");
+          const customStopwords = new Set(tmp);
+          content = removeStopwords(yield convertToMap(yield getWords(yield this.plugin.app.vault.read(file))), customStopwords);
         } else {
           content = yield convertToMap(yield getWords(yield this.plugin.app.vault.read(file)));
         }
@@ -2021,13 +2028,15 @@ var TagCloudPlugin2 = class extends import_obsidian4.Plugin {
       minCount: yaml.minCount ? yaml.minCount : 0,
       type: yaml.type ? yaml.type : "resolved",
       shrinkToFit: yaml.shrinkToFit ? yaml.shrinkToFit : true,
-      maxDepth: yaml.maxDepth ? yaml.maxDepth : 25
+      maxDepth: yaml.maxDepth ? yaml.maxDepth : 15
     };
   }
-  calculateWordDistribution() {
+  calculateWordDistribution(fresh = false) {
     return __async(this, null, function* () {
-      if (this.calculatingWordDistribution)
+      if (this.calculatingWordDistribution) {
+        new import_obsidian4.Notice("Word distribution is already beeing calculated");
         return;
+      }
       this.calculatingWordDistribution = true;
       logger.debug("Calculating word distribution");
       const files = this.app.vault.getMarkdownFiles();
@@ -2039,6 +2048,12 @@ var TagCloudPlugin2 = class extends import_obsidian4.Plugin {
           cacheUpToDate = false;
         }
       }
+      if (fresh) {
+        cacheUpToDate = false;
+        this.settings.wordCache = null;
+        this.settings.filecache = null;
+      }
+      yield this.saveSettings();
       if (this.settings.wordCache && cacheUpToDate && this.settings.wordCache.timestamp !== 0) {
         this.fileContentsWithStopwords = this.settings.wordCache.withStopwords;
         this.fileContentsWithoutStopwords = this.settings.wordCache.withoutStopwords;
@@ -2050,6 +2065,9 @@ var TagCloudPlugin2 = class extends import_obsidian4.Plugin {
       if (!this.settings.filecache) {
         this.settings.filecache = DEFAULT_SETTINGS.filecache;
       }
+      const tmp = this.settings.stopwords.split("\n");
+      const customStopwords = new Set(tmp);
+      console.log(customStopwords);
       for (const file of files) {
         if (this.quit)
           continue;
@@ -2064,7 +2082,7 @@ var TagCloudPlugin2 = class extends import_obsidian4.Plugin {
           const words = yield getWords(fileContent);
           const withStopwords = yield convertToMap(words);
           this.fileContentsWithStopwords = yield mergeMaps(this.fileContentsWithStopwords, withStopwords);
-          const withoutStopwords = removeStopwords(withStopwords);
+          const withoutStopwords = removeStopwords(withStopwords, customStopwords);
           this.fileContentsWithoutStopwords = yield mergeMaps(this.fileContentsWithoutStopwords, withoutStopwords);
           this.settings.filecache[file.path] = {
             withStopwords,
@@ -2162,7 +2180,7 @@ var TagCloudPlugin2 = class extends import_obsidian4.Plugin {
           if (checking)
             return !this.calculatingWordDistribution;
           (() => __async(this, null, function* () {
-            yield this.calculateWordDistribution();
+            yield this.calculateWordDistribution(true);
             new import_obsidian4.Notice("calculated word distribution");
           }))();
         }
