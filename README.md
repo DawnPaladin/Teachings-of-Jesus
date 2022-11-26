@@ -2,6 +2,12 @@
 
 Everyone these days wants Jesus on their side. Christians of every stripe claim that their favorite issue is the one Jesus cared about most. This repository is a very unscientific attempt to determine **what Jesus cared about most**, using what he *did* most and *talked* about most as a proxy.
 
+## Working with this repository
+
+First, install [Obsidian](https://obsidian.md). Then [download a copy of this project](https://github.com/DawnPaladin/Teachings-of-Jesus/archive/refs/heads/main.zip), unzip it, and open it as an Obsidian vault. You can see the hashtags ordered by frequency in the "tags" pane on the right. In the file browser on the left, passages from the gospels are organized into folders according to the "phases" system used by [Harmony of the Gospels](http://harmony.bible/harmony-of-the-gospels/).
+
+Please feel free to build on this work. [The World English Bible is public domain](https://ebible.org/web/webfaq.htm#MayIUse), and [so is this project](LICENSE.md). If you'd like to add or reorganize hashtags, feel free to either open a Pull Request on GitHub or email your updated vault to james/at/jamesharris.design.
+
 ## Methodology
 
 I read through [this Harmony of the Gospels](http://harmony.bible/harmony-of-the-gospels/), copy-and-pasting each section into Markdown files in an [Obsidian](https://obsidian.md) vault. Each time Jesus mentioned a topic, I added a hashtag for that topic to that section's file.
