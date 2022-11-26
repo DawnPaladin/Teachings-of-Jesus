@@ -1,6 +1,6 @@
 # Teachings of Jesus
 
-Everyone these days wants Jesus on their side. Christians of every stripe claim that their favorite issue is the one Jesus cared about most. This repository is a very unscientific attempt to determine **what Jesus cared about most**, using what he *did* most and*talked* about most as a proxy.
+Everyone these days wants Jesus on their side. Christians of every stripe claim that their favorite issue is the one Jesus cared about most. This repository is a very unscientific attempt to determine **what Jesus cared about most**, using what he *did* most and *talked* about most as a proxy.
 
 ## Methodology
 
