@@ -156,3 +156,25 @@ Jesus told him, “Go and do likewise.”
 # [[S117c Sin, Faith, Duty]]
 
 “If your brother or sister[fn] sins against you, rebuke them; and if they repent, forgive them. 4  Even if they sin against you seven times in a day and seven times come back to you saying ‘I repent,’ you must forgive them.”
+
+# [[S131 Ask and believe]]
+22 “Have faith in God,” Jesus answered. 23 “Truly[fn] I tell you, if anyone says to this mountain, ‘Go, throw yourself into the sea,’ and does not doubt in their heart but believes that what they say will happen, it will be done for them. 24 Therefore I tell you, whatever you ask for in prayer, believe that you have received it, and it will be yours. 25 And when you stand praying, if you hold anything against anyone, forgive them, so that your Father in heaven may forgive you your sins.[fn]”
+
+# [[S133 Render unto Caesar]]
+Then he said to them, “So give back to Caesar what is Caesar’s, and to God what is God’s.”
+
+# [[S135 The greatest commandment]]
+
+37 Jesus replied: “ ‘Love the Lord your God with all your heart and with all your soul and with all your mind.’[fn] 38 This is the first and greatest commandment. 39 And the second is like it: ‘Love your neighbor as yourself.’[fn] 40 All the Law and the Prophets hang on these two commandments.”
+
+# [[S139f Parable of the ten virgins]]
+42 Watch therefore, for you don’t know in what hour your Lord comes.
+
+# [[S147 Prediction of Peter's Denial]]
+34  “A new command I give you: Love one another. As I have loved you, so you must love one another. 35  By this everyone will know that you are my disciples, if you love one another.”
+
+# [[S150a The Vine and the Branches]]
+9  “As the Father has loved me, so have I loved you. Now remain in my love. 10  If you keep my commands, you will remain in my love, just as I have kept my Father’s commands and remain in his love. 11  I have told you this so that my joy may be in you and that your joy may be complete. 12  My command is this: Love each other as I have loved you. 13  Greater love has no one than this: to lay down one’s life for one’s friends. 14  You are my friends if you do what I command. 15  I no longer call you servants, because a servant does not know his master’s business. Instead, I have called you friends, for everything that I learned from my Father I have made known to you. 16  You did not choose me, but I chose you and appointed you so that you might go and bear fruit—fruit that will last—and so that whatever you ask in my name the Father will give you. 17  This is my command: Love each other.
+
+# [[S181 The Great Commission]]
+16 But the eleven disciples went into Galilee, to the mountain where Jesus had sent them. 17 When they saw him, they bowed down to him, but some doubted. 18 Jesus came to them and spoke to them, saying, “All authority has been given to me in heaven and on earth. 19 Go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, 20 teaching them to observe all things that I commanded you. Behold, I am with you always, even to the end of the age.” Amen. 

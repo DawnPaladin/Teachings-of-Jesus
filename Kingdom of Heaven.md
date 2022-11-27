@@ -1,3 +1,56 @@
+# Properties of the Kingdom of Heaven
+## Character
+- #inversion of status
+	- Belongs to the poor in spirit, the gentle, and those who have been persecuted for righteousness' sake, per [[S54 Sermon on the Mount]]
+	- Those who follow and teach God's commandments will be great. Those who break God's commandments will be least. Compare to our world, which assigns value by wealth (Bezos) and power (presidents, senators, etc.) and cares little for good character.
+	- The most important people are those who serve everyone else, especially children ([[S90 Greatest in the Kingdom]])
+- All righteous desires will be fulfilled
+	- Mourners will be comforted
+	- Will fulfill those who hunger and thirst after righteousness
+	- The merciful will obtain mercy
+- A place of close relationship with God for the righteous
+	- The pure will see God
+	- The peacemakers will be called the children of God
+- Per [[S70b Appointing of the Twelve Apostles]], heralded by:
+	- Healing the sick
+	- Raising the dead
+	- Driving out demons
+	- Freely giving and receiving
+	- Nonreliance on money and supplies (extra clothing, sandals, etc.)
+	- Reliance on the hospitality of others and trust in God
+- Revealing all secrets ([[S70b Appointing of the Twelve Apostles]])
+- Provides for the essential physical needs of those who seek after it ([[S108b Money and God's provision]])
+- Not of this world, and therefore will not be produced by violence. ([[S159 Jesus' trial before Pilate]])
+
+## Membership
+- Only those born again can enter ([[S32b Convo with Nicodemus]])
+- Its coming will separate the good from the evil ([[S64d Parable of the weeds]], [[S64j Parable of the net]])
+- Those who claim connection with God but don't obey God's commands will be excluded ([[S54 Sermon on the Mount]])
+- Excludes those unwilling to part with sin, even to the point of cutting off parts of their bodies ([[S91 Strenuously avoid sin]])
+- Requires a humble, childlike attitude ([[S90 Greatest in the Kingdom]])
+- Will include people from all over the world, but not all those expecting to gain entry will do so. ([[S113 The narrow door]])
+- Will include the poor, the crippled, the blind, and the lame ([[S114 Parable of the Great Banquet]])
+- It is extremely difficult for the rich to gain entry ([[S124a Riches and the Kingdom]])
+- Will be taken away from those who rejected Jesus and given to those who will produce its fruit ([[S132b The stone the builders rejected]])
+- Requires watchfulness ([[S139f Parable of the ten virgins]])
+
+## Arrival
+- [[S120a Ten lepers|S120a]] says its arrival will be invisible and will not be remarked upon, "because the kingdom of God is in your midst" or "among you" or "within you".
+
+### Timing
+- Is "near at hand", or was in Jesus' day ([[S37 Nature of the Galilean Ministry]], [[S70b Appointing of the Twelve Apostles]]) but is not yet here (per the [[S54 Sermon on the Mount|Lord's Prayer]])
+- Those who seek it today should not worry and will have their needs met ([[S54 Sermon on the Mount]])
+- Jesus is forgoing the Passover dinner until it is fulfilled in the Kingdom ([[S144 Greatest in the Kingdom]])
+
+### Growth
+- Is not produced by hard work, but grows on its own ([[S64c Parable of spontaneous growth]])
+	- Instead, in the [[S54 Sermon on the Mount]] Jesus says salt must not lose its saltiness and light should not be hidden. He commands us "In the same way, let your light shine before others, that they may see your good deeds and glorify your Father in Heaven."
+		- Isaiah 42:6 and 49:6 talk about Israel being a light to the gentiles "that my salvation may reach to the ends of the earth".
+- Starts out insignificantly small, but grows to a size that overshadows everything else ([[S64e Parable of the mustard seed]]) and permeates everything ([[S64f Parable of the unleavened loaf]])
+
+## Value
+- Appears unremarkable, but is worth more than everything else ([[S64h Parable of the hidden treasure]], [[S64i Parable of the valuable pearl]])
+
 # Relevant verses
 [[S32b Convo with Nicodemus]]
 
@@ -67,52 +120,3 @@ These twelve Jesus sent out with the following instructions: “Do not go among 
 “So do not be afraid of them, for there is nothing concealed that will not be disclosed, or hidden that will not be made known. 27  What I tell you in the dark, speak in the daylight; what is whispered in your ear, proclaim from the roofs. 28  Do not be afraid of those who kill the body but cannot kill the soul. Rather, be afraid of the One who can destroy both soul and body in hell. 29  Are not two sparrows sold for a penny? Yet not one of them will fall to the ground outside your Father’s care.[fn] 30  And even the very hairs of your head are all numbered. 31  So don’t be afraid; you are worth more than many sparrows. 
 
 32  “Whoever acknowledges me before others, I will also acknowledge before my Father in heaven. 33  But whoever disowns me before others, I will disown before my Father in heaven.
-
-# Properties of the Kingdom of Heaven
-## Character
-- #inversion of status
-	- Belongs to the poor in spirit, the gentle, and those who have been persecuted for righteousness' sake, per [[S54 Sermon on the Mount]]
-	- Those who follow and teach God's commandments will be great. Those who break God's commandments will be least. Compare to our world, which assigns value by wealth (Bezos) and power (presidents, senators, etc.) and cares little for good character.
-	- The most important people are those who serve everyone else, especially children ([[S90 Greatest in the Kingdom]])
-- All righteous desires will be fulfilled
-	- Mourners will be comforted
-	- Will fulfill those who hunger and thirst after righteousness
-	- The merciful will obtain mercy
-- A place of close relationship with God for the righteous
-	- The pure will see God
-	- The peacemakers will be called the children of God
-- Per [[S70b Appointing of the Twelve Apostles]], heralded by:
-	- Healing the sick
-	- Raising the dead
-	- Driving out demons
-	- Freely giving and receiving
-	- Nonreliance on money and supplies (extra clothing, sandals, etc.)
-	- Reliance on the hospitality of others and trust in God
-- Revealing all secrets ([[S70b Appointing of the Twelve Apostles]])
-- Provides for the essential physical needs of those who seek after it ([[S108b Money and God's provision]])
-
-## Membership
-- Only those born again can enter ([[S32b Convo with Nicodemus]])
-- Its coming will separate the good from the evil ([[S64d Parable of the weeds]], [[S64j Parable of the net]])
-- Those who claim connection with God but don't obey God's commands will be excluded ([[S54 Sermon on the Mount]])
-- Excludes those unwilling to part with sin, even to the point of cutting off parts of their bodies ([[S91 Strenuously avoid sin]])
-- Requires a humble, childlike attitude ([[S90 Greatest in the Kingdom]])
-- Will include people from all over the world, but not all those expecting to gain entry will do so. ([[S113 The narrow door]])
-- Will include the poor, the crippled, the blind, and the lame ([[S114 Parable of the Great Banquet]])
-- It is extremely difficult for the rich to gain entry ([[S124a Riches and the Kingdom]])
-
-## Arrival
-- [[S120a Ten lepers|S120a]] says its arrival will be invisible and will not be remarked upon, "because the kingdom of God is in your midst" or "among you" or "within you".
-
-### Timing
-- Is "near at hand", or was in Jesus' day ([[S37 Nature of the Galilean Ministry]], [[S70b Appointing of the Twelve Apostles]]) but is not yet here (per the [[S54 Sermon on the Mount|Lord's Prayer]])
-- Those who seek it today should not worry and will have their needs met ([[S54 Sermon on the Mount]])
-
-### Growth
-- Is not produced by hard work, but grows on its own ([[S64c Parable of spontaneous growth]])
-	- Instead, in the [[S54 Sermon on the Mount]] Jesus says salt must not lose its saltiness and light should not be hidden. He commands us "In the same way, let your light shine before others, that they may see your good deeds and glorify your Father in Heaven."
-		- Isaiah 42:6 and 49:6 talk about Israel being a light to the gentiles "that my salvation may reach to the ends of the earth".
-- Starts out insignificantly small, but grows to a size that overshadows everything else ([[S64e Parable of the mustard seed]]) and permeates everything ([[S64f Parable of the unleavened loaf]])
-
-## Value
-- Appears unremarkable, but is worth more than everything else ([[S64h Parable of the hidden treasure]], [[S64i Parable of the valuable pearl]])
