@@ -2,6 +2,17 @@
 
 Everyone these days wants Jesus on their side. Christians of every stripe claim that their favorite issue is the one Jesus cared about most. This repository is a very unscientific attempt to determine **what Jesus cared about most**, using what he *did* most and *talked* about most as a proxy.
 
+## Results
+![[Pasted image 20221126213208.png]]
+### Jesus' favorite topics
+
+- What Jesus talked about most was himself, God the Father, and the relationship between them.
+- He gave specific commands to his followers.
+- He talked a great deal about the Kingdom of Heaven.
+- He spoke in many parables.
+- He enacted many miracles, many of which were healings.
+- And he spoke about the judgment to come.
+
 ## Working with this repository
 
 First, install [Obsidian](https://obsidian.md). Then [download a copy of this project](https://github.com/DawnPaladin/Teachings-of-Jesus/archive/refs/heads/main.zip), unzip it, and open it as an Obsidian vault. You can see the hashtags ordered by frequency in the "tags" pane on the right. In the file browser on the left, passages from the gospels are organized into folders according to the "phases" system used by [Harmony of the Gospels](http://harmony.bible/harmony-of-the-gospels/).
@@ -18,6 +29,7 @@ Deciding how to "chunk" the hashtags is very subjective. When the same conversat
 
 Most of the tags are topics of conversation, with a few exceptions:
 
+- Jesus talks about God a lot. I organized this as #god/father, #god/jesus, and #god/holy-spirit. 
 - #commands are direct instructions from Jesus for all of his followers. Instructions for a particular time and place (e.g. "bring me a donkey for the Triumphal Entry") are excluded.
 - #miracles are sometimes an example of Jesus talking about miracles and sometimes a miracle happening. #healing is Jesus talking about healing; #healings are healing miracles.
 - #popularity is any time the authors talk about "the crowds" or how Jesus was affected by his vast popularity. This is almost always in a negative context.
