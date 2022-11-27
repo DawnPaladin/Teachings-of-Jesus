@@ -1,0 +1,8 @@
+[**Luke 24:44-49**](http://harmony.bible/small-group-resources/harmony-bible-map/)
+
+44 He said to them, “This is what I told you, while I was still with you, that all things which are written in the law of Moses, the prophets, and the psalms, concerning me must be fulfilled.” 45 Then he opened their minds, that they might understand the Scriptures. 46 He said to them, “Thus it is written, and thus it was necessary for the Christ to suffer and to rise from the dead the third day, 47 and that repentance and remission of sins should be preached in his name to all the nations, beginning at Jerusalem. 48 You are witnesses of these things. 49 Behold, I send out the promise of my Father on you. But wait in the city of Jerusalem until you are clothed with power from on high.” #prophecy-fulfilled #repentance #forgiveness 
+
+**[Acts 1:3-8](http://www.blueletterbible.org/search/preSearch.cfm?Criteria=Acts+1.3-8&t=NIV)** 
+3 To these he also showed himself alive after he suffered, by many proofs, appearing to them over a period of forty days, and speaking about God’s Kingdom. 4 Being assembled together with them, he commanded them, “Don’t depart from Jerusalem, but wait for the promise of the Father, which you heard from me.
+
+5 For John indeed baptized in water, but you will be baptized in the Holy Spirit not many days from now.” 6 Therefore when they had come together, they asked him, “Lord, are you now restoring the kingdom to Israel?” 7 He said to them, “It isn’t for you to know times or seasons which the Father has set within his own authority. 8 But you will receive power when the Holy Spirit has come upon you. You will be witnesses to me in Jerusalem, in all Judea and Samaria, and to the uttermost parts of the earth.” #god/holy-spirit #witnessing 

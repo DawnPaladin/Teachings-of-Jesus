@@ -1,0 +1,12 @@
+**[Mark 16:14](http://www.blueletterbible.org/search/preSearch.cfm?Criteria=Mark+16.14&t=NIV)**  
+14 Afterward he was revealed to the eleven themselves as they sat at the table, and he rebuked them for their unbelief and hardness of heart, because they didn’t believe those who had seen him after he had risen. #faith
+
+**[Luke 24:36-43](http://www.blueletterbible.org/search/preSearch.cfm?Criteria=Luke+24.36-43&t=NIV)**  
+36 As they said these things, Jesus himself stood among them, and said to them, “Peace be to you.” 37 But they were terrified and filled with fear, and supposed that they had seen a spirit. 38 He said to them, “Why are you troubled? Why do doubts arise in your hearts? 39 See my hands and my feet, that it is truly me. Touch me and see, for a spirit doesn’t have flesh and bones, as you see that I have.” 40 When he had said this, he showed them his hands and his feet. 41 While they still didn’t believe for joy, and wondered, he said to them, “Do you have anything here to eat?” 42 They gave him a piece of a broiled fish and some honeycomb. 43 He took them, and ate in front of them. #joy #food-and-drink #resurrection 
+
+**[John 20:19-25](http://www.blueletterbible.org/search/preSearch.cfm?Criteria=John+20.19-25&t=NIV)**  
+19 When therefore it was evening on that day, the first day of the week, and when the doors were locked where the disciples were assembled, for fear of the Jews, Jesus came and stood in the middle, and said to them, “Peace be to you.” #peace 
+
+20 When he had said this, he showed them his hands and his side.
+
+The disciples therefore were glad when they saw the Lord. 21 Jesus therefore said to them again, “Peace be to you. As the Father has sent me, even so I send you.” 22 When he had said this, he breathed on them, and said to them, “Receive the Holy Spirit! 23 If you forgive anyone’s sins, they have been forgiven them. If you retain anyone’s sins, they have been retained.” 24 But Thomas, one of the twelve, called Didymus, wasn’t with them when Jesus came. 25 The other disciples therefore said to him, “We have seen the Lord!” But he said to them, “Unless I see in his hands the print of the nails, put my finger into the print of the nails, and put my hand into his side, I will not believe.” #god #forgiveness #god/holy-spirit 

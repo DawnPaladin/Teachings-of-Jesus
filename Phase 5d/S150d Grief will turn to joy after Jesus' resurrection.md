@@ -1,0 +1,6 @@
+**[John 16:16-22](http://www.blueletterbible.org/search/preSearch.cfm?Criteria=John+16.16-22&t=NIV)**
+16 Jesus went on to say, “In a little while you will see me no more, and then after a little while you will see me.” #prophecy 
+
+17 At this, some of his disciples said to one another, “What does he mean by saying, ‘In a little while you will see me no more, and then after a little while you will see me,’ and ‘Because I am going to the Father’?” 18 They kept asking, “What does he mean by ‘a little while’? We don’t understand what he is saying.”
+
+19 Jesus saw that they wanted to ask him about this, so he said to them, “Are you asking one another what I meant when I said, ‘In a little while you will see me no more, and then after a little while you will see me’? 20 Very truly I tell you, you will weep and mourn while the world rejoices. You will grieve, but your grief will turn to joy. 21 A woman giving birth to a child has pain because her time has come; but when her baby is born she forgets the anguish because of her joy that a child is born into the world. 22 So with you: Now is your time of grief, but I will see you again and you will rejoice, and no one will take away your joy. #grief #joy

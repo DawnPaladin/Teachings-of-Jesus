@@ -1,0 +1,10 @@
+**[John 15:18-27](http://www.blueletterbible.org/search/preSearch.cfm?Criteria=John+15.18-27&t=NIV)**
+### The World Hates the Disciples
+18  “If the world hates you, keep in mind that it hated me first. 19  If you belonged to the world, it would love you as its own. As it is, you do not belong to the world, but I have chosen you out of the world. That is why the world hates you. 20  Remember what I told you: ‘A servant is not greater than his master.’[fn] If they persecuted me, they will persecute you also. If they obeyed my teaching, they will obey yours also. 21  They will treat you this way because of my name, for they do not know the one who sent me. 22  If I had not come and spoken to them, they would not be guilty of sin; but now they have no excuse for their sin. 23  Whoever hates me hates my Father as well. 24  If I had not done among them the works no one else did, they would not be guilty of sin. As it is, they have seen, and yet they have hated both me and my Father. 25  But this is to fulfill what is written in their Law: ‘They hated me without reason.’[fn] #persecution #god/jesus #god/father #sin #guilt #prophecy-fulfilled 
+
+### The Work of the Holy Spirit
+
+26  “When the Advocate comes, whom I will send to you from the Father—the Spirit of truth who goes out from the Father—he will testify about me. 27  And you also must testify, for you have been with me from the beginning. #god/holy-spirit #witnessing
+
+**[John 16:1-4](http://www.blueletterbible.org/search/preSearch.cfm?Criteria=John+16.1-4&t=NIV)**  
+1 “I have said these things to you so that you wouldn’t be caused to stumble. 2 They will put you out of the synagogues. Yes, the time comes that whoever kills you will think that he offers service to God. 3 They will do these things because they have not known the Father, nor me. 4 But I have told you these things, so that when the time comes, you may remember that I told you about them. I didn’t tell you these things from the beginning, because I was with you. #persecution 

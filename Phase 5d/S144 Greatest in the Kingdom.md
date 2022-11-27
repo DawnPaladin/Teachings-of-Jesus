@@ -1,0 +1,6 @@
+**[Luke 22:14-16](http://www.blueletterbible.org/search/preSearch.cfm?Criteria=Luke+22.14-16&t=NIV), [24-30](http://www.blueletterbible.org/search/preSearch.cfm?Criteria=Luke+22.24-30&t=NIV)**  
+14 When the hour had come, he sat down with the twelve apostles. 15 He said to them, “I have earnestly desired to eat this Passover with you before I suffer, 16 for I tell you, I will no longer by any means eat of it until it is fulfilled in God’s Kingdom.” #prophecy #kingdom-of-heaven #food-and-drink 
+
+24 A dispute also arose among them, which of them was considered to be greatest. 25 He said to them, “The kings of the nations lord it over them, and those who have authority over them are called ‘benefactors.’ 26 But not so with you. But one who is the greater among you, let him become as the younger, and one who is governing, as one who serves. 27 For who is greater, one who sits at the table, or one who serves? Isn’t it he who sits at the table? But I am among you as one who serves. 28 But you are those who have continued with me in my trials. 29 I confer on you a kingdom, even as my Father conferred on me, 30 that you may eat and drink at my table in my Kingdom. You will sit on thrones, judging the twelve tribes of Israel.”
+
+#service #inversion #kingdom-of-heaven #eternal-reward #authority 

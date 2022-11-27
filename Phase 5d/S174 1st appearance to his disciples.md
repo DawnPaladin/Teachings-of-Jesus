@@ -1,0 +1,2 @@
+**[Matthew 28:9-10](http://www.blueletterbible.org/search/preSearch.cfm?Criteria=Matthew+28.9-10&t=NIV)**  
+9 As they went to tell his disciples, behold, Jesus met them, saying, “Rejoice!”They came and took hold of his feet, and worshiped him. 10 Then Jesus said to them, “Don’t be afraid. Go tell my brothers that they should go into Galilee, and there they will see me.” #joy

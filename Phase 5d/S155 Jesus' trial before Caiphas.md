@@ -1,0 +1,18 @@
+#all4gospels 
+
+**[Matthew 26:57](http://www.blueletterbible.org/search/preSearch.cfm?Criteria=Matthew+26.57&t=NIV), [59-68](http://www.blueletterbible.org/search/preSearch.cfm?Criteria=Matthew+26.59-68&t=NIV)**  
+57 Those who had taken Jesus led him away to Caiaphas the high priest, where the scribes and the elders were gathered together.  
+59 Now the chief priests, the elders, and the whole council sought false testimony against Jesus, that they might put him to death; 60 and they found none. Even though many false witnesses came forward, they found none. But at last two false witnesses came forward, 61 and said, “This man said, ‘I am able to destroy the temple of God, and to build it in three days.’ ” 62 The high priest stood up, and said to him, “Have you no answer? What is this that these testify against you?” 63 But Jesus held his peace. The high priest answered him, “I adjure you by the living God, that you tell us whether you are the Christ, the Son of God.” 64 Jesus said to him, “You have said it. Nevertheless, I tell you, after this you will see the Son of Man sitting at the right hand of Power, and coming on the clouds of the sky.” 65 Then the high priest tore his clothing, saying, “He has spoken blasphemy! Why do we need any more witnesses? Behold, now you have heard his blasphemy. 66 What do you think?” They answered, “He is worthy of death!” 67 Then they spat in his face and beat him with their fists, and some slapped him, 68 saying, “Prophesy to us, you Christ! Who hit you?” #second-coming 
+
+**[Mark 14:53](http://www.blueletterbible.org/search/preSearch.cfm?Criteria=Mark+14.53&t=NIV), [55-65](http://www.blueletterbible.org/search/preSearch.cfm?Criteria=Mark+14.55-65&t=NIV)**  
+53 They led Jesus away to the high priest. All the chief priests, the elders, and the scribes came together with him.
+
+55 Now the chief priests and the whole council sought witnesses against Jesus to put him to death, and found none. 56 For many gave false testimony against him, and their testimony didn’t agree with each other. 57 Some stood up, and gave false testimony against him, saying, 58 “We heard him say, ‘I will destroy this temple that is made with hands, and in three days I will build another made without hands.’ ” 59 Even so, their testimony didn’t agree. 60 The high priest stood up in the middle, and asked Jesus, “Have you no answer? What is it which these testify against you?” 61 But he stayed quiet, and answered nothing. Again the high priest asked him, “Are you the Christ, the Son of the Blessed?” 62 Jesus said, “I am. You will see the Son of Man sitting at the right hand of Power, and coming with the clouds of the sky.” 63 The high priest tore his clothes, and said, “What further need have we of witnesses? 64 You have heard the blasphemy! What do you think?” They all condemned him to be worthy of death. 65 Some began to spit on him, and to cover his face, and to beat him with fists, and to tell him, “Prophesy!” The officers struck him with the palms of their hands.
+
+**[Luke 22:54a](http://www.blueletterbible.org/search/preSearch.cfm?Criteria=Luke+22.54a&t=NIV), [63-65](http://www.blueletterbible.org/search/preSearch.cfm?Criteria=Luke+22.63-65&t=NIV)**  
+54a They seized him, and led him away, and brought him into the high priest’s house.
+
+63 The men who held Jesus mocked him and beat him. 64 Having blindfolded him, they struck him on the face and asked him, “Prophesy! Who is the one who struck you?” 65 They spoke many other things against him, insulting him.
+
+**[John 18:24](http://www.blueletterbible.org/search/preSearch.cfm?Criteria=John+18.24&t=NIV)**  
+24 Annas sent him bound to Caiaphas, the high priest.
