@@ -3,12 +3,13 @@
 Everyone these days wants Jesus on their side. Christians of every stripe claim that their favorite issue is the one Jesus cared about most. This repository is a very unscientific attempt to determine **what Jesus cared about most**, using what he *did* most and *talked* about most as a proxy.
 
 ## Results
-![[chart.png]]
+![Bar graph of results](chart.png)
+
 ### Jesus' favorite topics
 
 - What Jesus talked about most was himself, God the Father, and the relationship between them.
-- He talked a great deal about the [[Kingdom of Heaven]].
-- He gave specific [[commands]] to his followers.
+- He talked a great deal about the [Kingdom of Heaven](Kingdom%20of%20Heaven.md).
+- He gave specific [commands](Commands.md) to his followers.
 - He spoke in many parables.
 - He made many prophecies about his death and his second coming.
 - He enacted many miracles, many of which were healings.
