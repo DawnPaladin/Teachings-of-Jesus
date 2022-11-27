@@ -13,7 +13,7 @@ The day on which this took place was a Sabbath, 10 and so the Jewish leaders sai
 
 13 The man who was healed had no idea who it was, for Jesus had slipped away into the crowd that was there.
 
-14 Later Jesus found him at the temple and said to him, “See, you are well again. Stop sinning or something worse may happen to you.” 15 The man went away and told the Jewish leaders that it was Jesus who had made him well. #sin #commands
+14 Later Jesus found him at the temple and said to him, “See, you are well again. Stop sinning or something worse may happen to you.” 15 The man went away and told the Jewish leaders that it was Jesus who had made him well. #sin 
 
 ### The Authority of the Son
 

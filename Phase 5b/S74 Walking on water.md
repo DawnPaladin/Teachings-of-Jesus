@@ -9,7 +9,7 @@
 
 33 Those who were in the boat came and worshiped him, saying, “You are truly the Son of God!”
 
-#solitude #prayer #fear #commands #faith #worship #miracles 
+#solitude #prayer #fear #faith #worship #miracles 
 
 **[Mark 6:47-52](http://www.blueletterbible.org/search/preSearch.cfm?Criteria=Mark+6.47-52&t=NIV)**
 47 When evening had come, the boat was in the middle of the sea, and he was alone on the land.

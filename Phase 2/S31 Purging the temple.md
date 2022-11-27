@@ -7,4 +7,4 @@
 
 20 The Jews therefore said, “It took forty-six years to build this temple! Will you raise it up in three days?” 21 But he spoke of the temple of his body. This is the second time that Jesus speaks of his resurrection. 22 When therefore he was raised from the dead, his disciples remembered that he said this, and they believed the Scripture, and the word which Jesus had said.
 
-#violence #prophecy-fulfilled #money #prophecy #temple #resurrection #commands
+#violence #prophecy-fulfilled #money #prophecy #temple #resurrection

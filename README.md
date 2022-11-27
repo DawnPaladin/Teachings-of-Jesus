@@ -7,8 +7,8 @@ Everyone these days wants Jesus on their side. Christians of every stripe claim 
 ### Jesus' favorite topics
 
 - What Jesus talked about most was himself, God the Father, and the relationship between them.
-- He gave specific commands to his followers.
-- He talked a great deal about the Kingdom of Heaven.
+- He talked a great deal about the [[Kingdom of Heaven]].
+- He gave specific commands to his followers, about half of which are in the [[S54 Sermon on the Mount|Sermon on the Mount]].
 - He spoke in many parables.
 - He enacted many miracles, many of which were healings.
 - And he spoke about the judgment to come.
